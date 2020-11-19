@@ -1,10 +1,6 @@
 void main() {
-  var year = 1923;
-  var century = year ~/ 100;
-  print(century);
+  var list = [60, 999, 14, 'dart1', 45, 95, 'dart', 1];
 
-  if (year % 100 == 0) {
-    print(century);
-  } else
-    print(century + 1);
+  print(list.contains('dart'));
+  print(list.contains(15));
 }
