@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2803331-9e60-406a-901e-7ec8a66f85bd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/main.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kEo6GyEnzikd0sNMSRQM1FQ3O4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.test">
+    <configuration name="web/index.html" type="DartWebdevConfigurationType" factoryName="Dart Web" nameIsGenerated="true">
+      <option name="htmlFilePath" value="$PROJECT_DIR$/web/index.html" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="JavascriptDebugType" uri="http://localhost:63342/Dart/web/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Dart Web.web/index.html" />
+      <item itemvalue="JavaScript Debug.test" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2803331-9e60-406a-901e-7ec8a66f85bd" name="Default Changelist" comment="" />
+      <created>1605274947414</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605274947414</updated>
+      <workItem from="1605274955381" duration="242000" />
+      <workItem from="1605275322251" duration="93000" />
+      <workItem from="1605275740601" duration="1455000" />
+      <workItem from="1605516999570" duration="733000" />
+      <workItem from="1605520042702" duration="453000" />
+      <workItem from="1605525840927" duration="1482000" />
+      <workItem from="1605527949261" duration="414000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1414" y="353" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605277190192">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1414" y="353" width="1071" height="748" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1605277190192" />
+    <state x="1687" y="500" key="#com.intellij.ide.util.TreeFileChooserDialog" timestamp="1605277064448">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1687" y="500" key="#com.intellij.ide.util.TreeFileChooserDialog/0.23.2560.1337@0.23.2560.1337" timestamp="1605277064448" />
+    <state x="1397" y="302" key="SettingsEditor" timestamp="1605276120436">
+      <screen x="0" y="23" width="2560" height="1337" />
+    </state>
+    <state x="1397" y="302" key="SettingsEditor/0.23.2560.1337@0.23.2560.1337" timestamp="1605276120436" />
+  </component>
+</project>
